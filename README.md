@@ -51,7 +51,7 @@ chmod +x deduplication_script.sh
 ./deduplication_script.sh
 ```
 
-##Contribution
+## Contribution
 Contributions are welcome! If you want to contribute to this project, follow these steps:
 
 ##Fork the repository.
@@ -60,12 +60,13 @@ Make your changes and commit them: git commit -m "Add some feature".
 Push to the branch: git push origin my-feature-branch.
 Open a pull request on GitHub.
 
-##License
+## License
 This project is licensed under the MIT License.
 
-##Contact
+## Contact
 If you have any questions or suggestions, feel free to reach out to the project maintainer:
 
 Email: chaitanyathepatil1603@gmail.com, adityavpawar07@gmail.com, tulshiram1408@gmail.com
 Twitter: https://twitter.com/ChaitanyaPatill
-##Happy deduplicating!
+
+## Happy deduplicating!
