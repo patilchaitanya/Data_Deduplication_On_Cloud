@@ -54,7 +54,7 @@ chmod +x deduplication_script.sh
 ## Contribution
 Contributions are welcome! If you want to contribute to this project, follow these steps:
 
-##Fork the repository.
+## Fork the repository.
 Create a new branch: git checkout -b my-feature-branch.
 Make your changes and commit them: git commit -m "Add some feature".
 Push to the branch: git push origin my-feature-branch.
