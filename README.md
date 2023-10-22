@@ -51,6 +51,41 @@ chmod +x deduplication_script.sh
 ./deduplication_script.sh
 ```
 
+## Results :
+
+- EC2 Instances
+![EC2_Instances](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/30e323eb-0623-4318-9ea1-e2dcd4bd4e1b)
+
+- S3 Bucket 
+![S3_Empty](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/4a94ab5e-c3da-4a0d-b730-a7e6ec43357f)
+
+- VPC 
+![VPC](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/990529a1-485f-4864-b822-274f2996f770)
+
+![VPC_Subnets](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/031efd74-1c93-4632-bc25-b753a2ad539d)
+
+![Subnets](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/020f5d68-0461-4c0f-bdc3-b532bd83803e)
+
+![Route_tables](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/7645c5f9-1795-4ebf-b806-8378e2505c77)
+
+![NAT_gateway](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/fb078235-0fb0-41e3-8901-a52fed864adb)
+
+![Gateways](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/3e0d2e5c-b0eb-4510-b240-3a0db879a151)
+
+- Output on server
+
+![Output_on_System](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/3b7a75fe-c499-4cd1-b981-38e7c72c7c2d)
+
+![Output_2](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/8270aaf0-a8db-48ab-8d1d-4835a16223fe)
+
+- S3 Bucket
+
+![S3_Bucket](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/f6d1d241-25b9-40dd-97cc-056c5855750c)
+
+![Hash_Folder](https://github.com/patilchaitanya/Data_Deduplication_On_Cloud/assets/73357241/952149d3-5e22-4309-99aa-95dd82e537f0)
+
+
+
 ## Contribution
 Contributions are welcome! If you want to contribute to this project, follow these steps:
 
